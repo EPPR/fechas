@@ -1,0 +1,11 @@
+{
+  "name": "fechas",
+  "version": "1.0.0",
+  "description": "EPPR - Calculos entre 2 fechas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EPPR lxps",
+  "license": "ISC"
+}
